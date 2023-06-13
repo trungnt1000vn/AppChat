@@ -1,0 +1,6 @@
+There're some library you must install in order to run the project : 
+- Firebase SDK
+- MessageKit
+- SDWebImage
+- JDProgress
+and a Firebase project to store your own data 
