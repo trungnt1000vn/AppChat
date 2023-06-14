@@ -4,3 +4,6 @@ There're some library you must install in order to run the project :
 - SDWebImage
 - JDProgress
 and a Firebase project to store your own data 
+This project is follow this tutorial of iOS Academy of Alfriz : 
+https://www.youtube.com/playlist?list=PL5PR3UyfTWvdlk-Qi-dPtJmjTj-2YIMMf 
+I've made some changes and add some features of my own. Thanks
